@@ -33,8 +33,22 @@ Một số nhược điểm khi thực hiện một thuật toán
 * Hạn chế của một số ngôn ngữ lập trình
 * Hiệu quả sẽ ảnh hưởng bởi trình độ người cài đặt
 * Việc chọn được thuật toán tối ưu rất khó khăn và tốn nhiều chi phí
-* Tốc độ xử lý được phụ thuộc vào phần cứng
-Các thước đo đánh giá độ phức tạp
+* Tốc độ xử lý được phụ thuộc vào phần cứng  
+#### **V. Đánh giá độ phức tạp giải thuật**
  * **Độ phức tạp của thuật toán** Mô tả hiệu quả của thuật toán về số lượng dữ liệu mà thuật toán cần xử lý
  * **Độ phức tạp về thời gian** Mô tả thời gian dựa trên dữ liệu đầu vào
  * **Độ phức tạp về không gian** Mô tả số lượng bộ nhớ mà một thuật toán cần sử dụng để xử lý khối lượng dữ liệu đầu vào
+##### **O(1)**: 
+Không phụ thuộc vào kích thước dữ liệu (Diều kiện, Truy cập giá trị)
+##### **O(logn)**:
+Tìm kiếm nhị phân 
+##### **O(n)**: 
+Tìm giá trị trong mảng
+##### **O(nlogn)**:
+Merge Sort, Heap Sort
+##### **O(n^2), O(n^3)**: 
+Khởi tạo giá trị cho mảng 2, 3 chiều
+##### **O(2^n)**:
+Tìm dãy Fibonacci
+##### **O(n!)**:
+Tạo hoán vị có thể có của tập hợp có n phần tử
