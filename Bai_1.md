@@ -34,6 +34,7 @@ Một số nhược điểm khi thực hiện một thuật toán
 * Hiệu quả sẽ ảnh hưởng bởi trình độ người cài đặt
 * Việc chọn được thuật toán tối ưu rất khó khăn và tốn nhiều chi phí
 * Tốc độ xử lý được phụ thuộc vào phần cứng
-* * **Độ phức tạp của thuật toán** Mô tả hiệu quả của thuật toán về số lượng dữ liệu mà thuật toán cần xử lý
-* * **Độ phức tạp về thời gian** Mô tả thời gian dựa trên dữ liệu đầu vào
+Các thước đo đánh giá độ phức tạp
+ * **Độ phức tạp của thuật toán** Mô tả hiệu quả của thuật toán về số lượng dữ liệu mà thuật toán cần xử lý
+ * **Độ phức tạp về thời gian** Mô tả thời gian dựa trên dữ liệu đầu vào
  * **Độ phức tạp về không gian** Mô tả số lượng bộ nhớ mà một thuật toán cần sử dụng để xử lý khối lượng dữ liệu đầu vào
